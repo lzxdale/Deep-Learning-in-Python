@@ -7,3 +7,6 @@ Using deep learning(Support Vector Machine, Neural Network) to predict review sc
 After running the code, the Neural Network model seems to have outperform the SVM as the prediction error in SVM is about 50% more than Neural Network.
 
 WineReview data cleaning 1.0.ipynb is to clean up and prepare the data for machine learning.
+
+NN_wine_review_GPU.ipynb is running nerual network on GPU.
+Requries cuda and cupy be set up properly.
